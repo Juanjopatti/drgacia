@@ -1,0 +1,2 @@
+[19-Jul-2024 16:03:01 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\juanj\Local Sites\rstudiojuridico\app\public\wp-includes\rest-api\endpoints\class-wp-rest-autosaves-controller.php on line 167
+[19-Jul-2024 16:03:01 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\juanj\Local Sites\rstudiojuridico\app\public\wp-includes\rest-api\endpoints\class-wp-rest-autosaves-controller.php on line 167
